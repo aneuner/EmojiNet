@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6_4.jpg</filename>
+	<path>C:\Users\katkh\Documents\UCI\Spring 2018\CS 175\images\6_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>405</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defaultd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>274</ymin>
+			<xmax>348</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>
