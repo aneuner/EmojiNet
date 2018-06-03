@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>images_resized</folder>
 	<filename>10_1.jpg</filename>
-	<path>C:\Users\katkh\Documents\UCI\Spring 2018\CS 175\images\10_1.jpg</path>
+	<path>C:\Users\katkh\Documents\UCI\Spring 2018\CS 175\images_resized\10_1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>39</xmin>
-			<ymin>197</ymin>
+			<xmin>48</xmin>
+			<ymin>199</ymin>
 			<xmax>337</xmax>
-			<ymax>518</ymax>
+			<ymax>516</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>images_resized</folder>
 	<filename>3_2.jpg</filename>
-	<path>C:\Users\katkh\Documents\UCI\Spring 2018\CS 175\images\3_2.jpg</path>
+	<path>C:\Users\katkh\Documents\UCI\Spring 2018\CS 175\images_resized\3_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>defaultd</name>
+		<name>hand</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>49</xmin>
+			<xmin>52</xmin>
 			<ymin>364</ymin>
-			<xmax>224</xmax>
-			<ymax>667</ymax>
+			<xmax>222</xmax>
+			<ymax>671</ymax>
 		</bndbox>
 	</object>
 </annotation>

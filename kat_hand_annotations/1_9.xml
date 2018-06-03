@@ -1,26 +1,26 @@
 <annotation>
-	<folder>images</folder>
+	<folder>images_resized</folder>
 	<filename>1_9.JPG</filename>
-	<path>C:\Users\katkh\Documents\UCI\Spring 2018\CS 175\images\1_9.JPG</path>
+	<path>C:\Users\katkh\Documents\UCI\Spring 2018\CS 175\images_resized\1_9.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>1136</height>
+		<width>405</width>
+		<height>719</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>defaultd</name>
+		<name>hand</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>71</xmin>
-			<ymin>343</ymin>
-			<xmax>489</xmax>
-			<ymax>951</ymax>
+			<xmin>52</xmin>
+			<ymin>216</ymin>
+			<xmax>308</xmax>
+			<ymax>601</ymax>
 		</bndbox>
 	</object>
 </annotation>
